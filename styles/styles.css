@@ -101,6 +101,10 @@ main section h1 {
     background: rgb(228, 227, 197);
 }
 
+main section:last-child div p {
+    text-align: justify;
+}
+
 #imgFotter {
     width: 100%;
 }
